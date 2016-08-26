@@ -1,4 +1,4 @@
-Ejercicio 1
+Ejercicio adicional 1
 
 Contexto: 
 Indicar si el número ingresado es negativo o posiivo.
